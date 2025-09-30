@@ -1,2 +1,2 @@
 # Shabucho
-This is senior project POS shabucho Web Application.
+POS shabucho Web Application deploy on render.
